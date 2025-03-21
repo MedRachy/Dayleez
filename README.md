@@ -27,7 +27,7 @@ We welcome contributions from the community. If you'd like to contribute, please
 ```
 **5.** Open a pull request.
 ## License 
-This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License
+This project is licensed under the [MIT](https://github.com/MedRachy/Dayleez/edit/master/LICENSE/) License
 ## Screensshots from the Pitch presantation 
 ![Untitled](https://github.com/MedRachy/Dayleez/assets/13630972/74a54de7-bc42-4eb9-a361-70a807e6fcb6)
 ![Untitled2](https://github.com/MedRachy/Dayleez/assets/13630972/e11da9e9-8b53-497a-b134-2073623b2d99)
