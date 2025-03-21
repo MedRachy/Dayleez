@@ -1,4 +1,4 @@
-# Dayleez - online Stores Explorer
+# Dayleez - Online Stores Explorer
 This project was originally developed as part of my participation in the **3rd edition of the "Trophées Ana Maâk"** competition, an initiative organized by **Attijariwafa Bank** to support innovation and entrepreneurship.  
 ## Project description
 DayLeez is a mobile application designed to help users explore and navigate through various online stores in Morocco. The app aggregates and lists the latest deals from these online stores, providing users with a convenient way to discover new products and promotions. 
